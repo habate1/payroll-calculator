@@ -10,6 +10,12 @@ public class PayrollCalculator {
         Scanner myScanner = new Scanner(System.in);
         String name = myScanner.nextLine();
 
+        // ask and store hours worked from user
+        System.out.println("Enter number of hours worked: ");
+        double hoursWorked = myScanner.nextInt();
+
+
+
 
 
     }
